@@ -1,0 +1,132 @@
+[Acquisition Parameters]
+Integration Time=3
+Flash Delay=100
+Boxcar=0
+Averages=10
+Correct Dark=0
+External Trigger=0
+Time Normalized=0
+Color Temperature=2500.000000000000000
+ADC1000Rotation=0
+View Mode=Scope Mode
+
+[Settings]
+Display File=C:\ARCHIV~1\OCEANO~1\OOIBAS~1\Default.display
+Spectrometer File=C:\Mis documentos\GOF\20200709\Cal master 20200709.spec
+
+[Autosave]
+Enabled=0
+BaseFilename=0
+Index=0
+
+[Overlay0]
+Active=0
+Filename=
+
+[Overlay1]
+Active=0
+Filename=
+
+[Overlay2]
+Active=0
+Filename=
+
+[Overlay3]
+Active=0
+Filename=
+
+[Overlay4]
+Active=0
+Filename=
+
+[Overlay5]
+Active=0
+Filename=
+
+[Overlay6]
+Active=0
+Filename=
+
+[Overlay7]
+Active=0
+Filename=
+
+[Channel0]
+Enabled=1
+Dark Stored=1
+Reference Stored=1
+Sample Dark Stored=0
+Dark Filename=C:\Mis documentos\LabAvII2023I\GustavoKevin\CuO.Master.dark
+Reference Filename=C:\Mis documentos\LabAvII2023I\GustavoKevin\CuO.Master.reference
+Sample Filename=C:\Mis documentos\LabAvII2023I\GustavoKevin\CuO.Master.sample
+Sample Dark Filename=
+
+[Channel1]
+Enabled=0
+Dark Stored=0
+Reference Stored=0
+Sample Dark Stored=0
+Dark Filename=
+Reference Filename=
+Sample Filename=
+Sample Dark Filename=
+
+[Channel2]
+Enabled=0
+Dark Stored=0
+Reference Stored=0
+Sample Dark Stored=0
+Dark Filename=
+Reference Filename=
+Sample Filename=
+Sample Dark Filename=
+
+[Channel3]
+Enabled=0
+Dark Stored=0
+Reference Stored=0
+Sample Dark Stored=0
+Dark Filename=
+Reference Filename=
+Sample Filename=
+Sample Dark Filename=
+
+[Channel4]
+Enabled=0
+Dark Stored=0
+Reference Stored=0
+Sample Dark Stored=0
+Dark Filename=
+Reference Filename=
+Sample Filename=
+Sample Dark Filename=
+
+[Channel5]
+Enabled=0
+Dark Stored=0
+Reference Stored=0
+Sample Dark Stored=0
+Dark Filename=
+Reference Filename=
+Sample Filename=
+Sample Dark Filename=
+
+[Channel6]
+Enabled=0
+Dark Stored=0
+Reference Stored=0
+Sample Dark Stored=0
+Dark Filename=
+Reference Filename=
+Sample Filename=
+Sample Dark Filename=
+
+[Channel7]
+Enabled=0
+Dark Stored=0
+Reference Stored=0
+Sample Dark Stored=0
+Dark Filename=
+Reference Filename=
+Sample Filename=
+Sample Dark Filename=
